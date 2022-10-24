@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./vqswpa/resources/icons/visquant_logo_color_4x.png" alt="VisQuant logo" width="350">
+  <img src="./visquant_logo_color_4x.png" alt="VisQuant logo" width="350">
 </h1>
 
 <h4 align="center">A visual programming environment for portfolio analytics</h4>
