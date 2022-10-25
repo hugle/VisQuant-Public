@@ -7,12 +7,12 @@
 
 ## Table of contents
 
-- [CHANGELOG](#changelog)
+- [Changelog](#changelog)
 - [Roadmap](#visquant-roadmap)
 
-## CHANGELOG
+## Changelog
 
-# 0.1.0
+# v0.1.0
 
 - Initial pre-alpha release.
 
